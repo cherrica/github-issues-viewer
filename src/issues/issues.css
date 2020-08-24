@@ -1,0 +1,16 @@
+.issue-container {
+  display: flex;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  align-items: center;
+}
+
+.assignee-icon-container {
+  margin-right: 10px;
+}
+
+.assignee-icon {
+  height: 40px;
+  width: 40px;
+}

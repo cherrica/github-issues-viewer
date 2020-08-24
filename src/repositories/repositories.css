@@ -1,0 +1,10 @@
+.repositories-list {
+  border-right: 3px solid;
+  padding-right: 20px;
+}
+
+.repository-container {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+}

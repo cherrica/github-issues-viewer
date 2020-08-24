@@ -1,0 +1,19 @@
+.token-input {
+  width: 70%;
+  height: 25px;
+  border: 3px solid;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.token-submit {
+  width: 25%;
+  border: 3px solid;
+  background-color: #000000;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
