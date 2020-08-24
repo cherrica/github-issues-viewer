@@ -4,7 +4,7 @@
 
 1. Clone this repo
 2. Install dependencies with `yarn install`
-3. Start up the server with `npm start`
+3. Start up the server with `yarn start`
 4. Copy the server link from your terminal to the browser
 
 ### Github API Key
